@@ -1,2 +1,2 @@
 # datascience
-Coursera IBM Data Science Professional Certificate
+This repository contains work done as part of the Coursera IBM Data Science Professional Certificate
